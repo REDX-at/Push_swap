@@ -1,4 +1,7 @@
 # Push Swap - 1337 (42 Network)
+
+![Dining Philosophers](https://github.com/REDX-at/Push_swap/blob/master/images/push%20swap%2042.png)
+
 Push Swap is a project focused on sorting algorithms and stack manipulation. The objective is to implement a sorting algorithm that efficiently sorts numbers using two stacks and a limited set of operations.
 
 ## Introduction
@@ -25,4 +28,4 @@ Performance Analysis: Evaluate and analyze the performance of your sorting algor
 ### Contact
 For any questions or feedback, feel free to reach out to me at taoussi.aimen@gmail.com or visit my GitHub profile at GitHub.
 
-![Dining Philosophers](https://github.com/REDX-at/Push_swap/blob/master/images/push%20swap%2042.png)
+
